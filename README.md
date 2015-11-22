@@ -1,1 +1,1 @@
-# gaia_distros_cm-b2g
+A distro just like Spark, but with better app layout.

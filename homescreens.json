@@ -1,0 +1,38 @@
+{
+  "homescreens": [
+    [
+      ["apps", "search"],
+      ["apps", "communications", "dialer"],
+      ["apps", "sms"],
+      ["apps", "communications", "contacts"]
+    ], [
+      ["apps", "marketplace.firefox.com"],
+      ["apps", "email"],
+      ["apps", "calendar"],
+      ["outoftree_apps", "notes"]
+    ], [
+      ["apps", "camera"],
+      ["apps", "gallery"],
+      ["apps", "settings"],
+      ["apps", "costcontrol"]
+    ], [
+      ["apps", "music"],
+      ["apps", "video"],
+      ["apps", "clock"],
+      ["outoftree_apps", "calculator"]
+    ], [
+      ["outoftree_apps", "webmaker"],
+      ["apps", "studio"],
+      ["apps", "customizer-launcher"],
+      ["apps", "directory"]
+    ], [
+      ["apps", "sharing"],
+      ["outoftree_apps", "bugzillalite"],
+      ["apps", "mozspeechcollect"],
+      ["outoftree_apps", "foxfooding"]
+    ]
+  ],
+  "preferences": {
+    "grid.cols": 4
+  }
+}
